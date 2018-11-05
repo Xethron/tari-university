@@ -46,7 +46,7 @@ $$
   P_{agg} &= P_a + P_b \\\\
   e &= H(R_a || R_b || P_a || P_b || m) \\\\
   s_{agg} &= r_a + r_b + (k_a + k_b)e \\\\
-        &= (r_a + k_ae) + (r_b + k_ae) \\\\
+        &= (r_a + k_ae) + (r_b + k_be) \\\\
         &= s_a + s_b
 \end{align}
 $$
